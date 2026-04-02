@@ -1,2 +1,2 @@
-# detektor kwiatów służy do tego aby rozpoznawac kiwiaty w lesie. Ropisz zdjęcie wklejasz do programu i piszesz $check a model sztucznej inteligencji sprawdza jaki to gatunek kwiatka 
+# Detektor kwiatów może służyć do automatycznego rozpoznawania gatunków kwiatów na podstawie zdjęć, np. z kamery lub telefonu. Wklej zdjęcie kwiatka napisz $check a bot rozpozna jaki to gatunek kwiatka
 ![Alt Text](https://github.com/mil00sz/detektor-kwiat-w/blob/main/screenshot.png?raw=true)
